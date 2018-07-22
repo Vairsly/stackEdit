@@ -1,12 +1,12 @@
 ## Mysql修改密码的几种方法
 
 
-> Written with [月光](https://stackedit.io/).
-> 方法1： 用SET PASSWORD命令 　　 
- 
+Written with [月光](https://stackedit.io/).
 
-    mysql -u root 　　
-    mysql> SET PASSWORD FOR 'root'@enter code here'localhost' = PASSWORD('newpass');
+
+> 方法1： 用SET PASSWORD命令 　　 
+mysql -u root 　　
+mysql> SET PASSWORD FOR 'root'@enter code here'localhost' = PASSWORD('newpass');
 
 > 方法2：用mysqladmin 　　
 > `mysqladmin -u root password "newpass"` 　
@@ -28,5 +28,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2Mzc4MzM3XX0=
+eyJoaXN0b3J5IjpbLTU1NzU4Nzk5MV19
 -->
