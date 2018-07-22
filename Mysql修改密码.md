@@ -1,4 +1,4 @@
-## Mysql修改密码的几种方法
+xx## Mysql修改密码的几种方法
 
 
 Written with [月光](https://stackedit.io/).
@@ -30,5 +30,5 @@ Written with [月光](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDY1NDc2MV19
+eyJoaXN0b3J5IjpbLTE2MzA1MTg3NDNdfQ==
 -->
