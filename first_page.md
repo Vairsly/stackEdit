@@ -2,7 +2,11 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
+|
 |strikethrough text|  |
+|------------------|--|
+|                  |  |
+|  |
 |------------------|--|
 |                  |  |
 
@@ -12,6 +16,6 @@
 [baidu](http://www.baidu.com)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODc5MzU0OCwxMzc5MjA1Mzg2LC0zOT
+eyJoaXN0b3J5IjpbLTQwNTQ2NTU3NCwxMDQ4NzkzNTQ4LC0zOT
 Y1ODEyMDhdfQ==
 -->
