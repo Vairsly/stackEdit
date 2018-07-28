@@ -12,10 +12,10 @@ static public function getInstance(){
 		self::$_instance = new self();
 		echo "创建了一个对象";
 	}
-	return self::$_instance;x
+	return self::$_instance;xzz
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM4NTc2MjVdfQ==
+eyJoaXN0b3J5IjpbMTc0NzE3NDg4NywtMTU5Mzg1NzYyNV19
 -->
